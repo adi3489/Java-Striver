@@ -11,7 +11,7 @@ public class primeNumber {
                    return "Not prime";
                }
            }
-        return "Prime";
+        return "Primee";
     }
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
