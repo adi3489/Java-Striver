@@ -20,7 +20,7 @@ public class primeNumber {
             String result = Prime(a);
             System.out.println(result);
         } catch (Exception e) {
-            System.out.println("galat");
+            System.out.println("galatttt");
         }
     }
 }
