@@ -10,5 +10,6 @@ public class stack {
         s.push(3);
         s.pop();
         System.out.println(s);
+
     }
 }
