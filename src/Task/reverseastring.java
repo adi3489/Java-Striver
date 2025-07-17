@@ -1,3 +1,5 @@
+package Task;
+
 import java.util.*;
 
 public class reverseastring {
@@ -6,12 +8,12 @@ public class reverseastring {
         Scanner sc = new Scanner(System.in);
 
         String input = sc.nextLine();
-        String reversed = "  ";
+        String rev = "  ";
 
         for (int i = input.length() - 1; i >= 0; i--) {
-            reversed += input.charAt(i);
+            rev  += input.charAt(i);
         }
 
-        System.out.println( reversed);
+        System.out.println( rev);
     }
 }

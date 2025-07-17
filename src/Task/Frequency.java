@@ -1,3 +1,5 @@
+package Task;
+
 import java.util.*;
 
 public class Frequency {
@@ -9,12 +11,12 @@ public class Frequency {
 
 
         for (int i = 0; i < a; i++) {
-            arr[i] = s.nextInt();    //element
+            arr[i] = s.nextInt();    //give element one by one
         }
 
-        int search = s.nextInt();
+        int search = s.nextInt(); //search element
 
-        int freq = 0;
+        int freq = 0; //count of search element
 
         for (int i = 0; i < a; i++) {
             if (arr[i] == search) {

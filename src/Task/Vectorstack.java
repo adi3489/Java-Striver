@@ -1,6 +1,4 @@
-import java.util.Vector;
-
-
+package Task;
 
 import java.util.Vector;
 
@@ -13,5 +11,6 @@ public class Vectorstack {
         s.add(4);
         System.out.println(s.get(0));
         System.out.println(s.contains(1));
+
     }
 }

@@ -1,3 +1,5 @@
+package Task;
+
 import java.util.Stack;
 
 public class stackvec {
@@ -8,6 +10,7 @@ public class stackvec {
                 s.add(3);
         System.out.println(s.contains(2));
         System.out.println(s.get(1));
+        System.out.println(s.search(1));
 
 
         }
