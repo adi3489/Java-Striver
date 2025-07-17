@@ -1,5 +1,3 @@
-package Task;
-
 import java.util.Vector;
 
 public class Vectorstack {

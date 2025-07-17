@@ -1,5 +1,3 @@
-package Task;
-
 import java.util.Stack;
 
 public class stackvec {
