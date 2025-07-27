@@ -13,6 +13,5 @@ public class Queue {
         System.out.println(list.poll());
         System.out.println(list.offer(2));
 
-
     }
 }
